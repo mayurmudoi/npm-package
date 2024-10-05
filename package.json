@@ -1,0 +1,21 @@
+{
+  "name": "react-native-uni-recorder",
+  "version": "1.0.4",
+  "description": "testing purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mayur mudoi",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "18.3.1",
+    "react-native": "0.75.4",
+    "react-native-audio-recorder-player": "^3.6.11",
+    "rn-fetch-blob": "^0.12.0"
+  },
+  "devDependencies": {
+    "@types/react-native": "^0.73.0",
+    "typescript": "^5.6.2"
+  }
+}
